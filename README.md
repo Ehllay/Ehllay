@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=ehllay)
 <!--
 **Ehllay/Ehllay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a junior dev, and I'm learning Python, C# and Java, so no fancy editing on this README.md for now.
+I'm a junior dev, and I'm learning Python, C# and Java
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ehllay&show_icons=true&theme=dracula" alt="Stats">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ehllay&theme=dracula" alt="Streak">
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ehllay&theme=dracula" alt="Trophies">
