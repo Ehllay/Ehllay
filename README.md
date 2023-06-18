@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 I'm a junior dev, and I'm learning Python, C# and Java
 
-<div align="center">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ehllay&show_icons=true&theme=dracula" alt="Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehllay&theme=dracula" alt="Languages">
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Ehllay&theme=dracula" alt="Streak">
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ehllay&theme=dracula" alt="Trophies">
