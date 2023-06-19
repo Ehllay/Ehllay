@@ -25,7 +25,7 @@ I'm a junior dev, and I'm learning Python, C# and Java
 
 ## My stats 📊:
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=ehllay&show_icons=true&theme=dracula" alt="Stats"> <img width="425" src="http://github-readme-streak-stats.herokuapp.com?user=Ehllay&theme=dracula" alt="Streak">
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=ehllay&show=reviews&show_icons=true&theme=dracula" alt="Stats"> <img width="425" src="http://github-readme-streak-stats.herokuapp.com?user=Ehllay&theme=dracula" alt="Streak">
 <img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehllay&layout=donut&theme=dracula" alt="Languages">
 <img width="830" src="https://github-profile-trophy.vercel.app/?username=ehllay&theme=dracula" alt="Trophies">
 <a/>
