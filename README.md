@@ -21,7 +21,7 @@ I'm a junior dev, and I'm learning Python, C# and Java
 ## Stuff I (kinda) know:
 ![Stuff](https://skillicons.dev/icons?i=java,cs,unity,css,bash)
 ## Things I want to learn:
-![Learn](https://skillicons.dev/icons?i=c,js,rust,tensorflow)
+![Learn](https://skillicons.dev/icons?i=latex,c,js,rust,tensorflow)
 
 ## My stats 📊:
 
