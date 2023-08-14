@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-I'm a junior dev, and I'm learning Python, C# and Java
+Hi, I'm Ehllay, a guy who programs for fun! (Although I'm not very skilled)
 ## Things I use:
-![Things I use](https://skillicons.dev/icons?i=py,lua,blender,vscode,neovim,linux,github)
-## Stuff I (kinda) know:
-![Stuff](https://skillicons.dev/icons?i=java,cs,unity,css,bash)
+![Things I (kinda) use](https://skillicons.dev/icons?i=bash,blender,cs,css,github,java,linux,lua,neovim,py,unity,vscode)
+
 ## Things I want to learn:
 ![Learn](https://skillicons.dev/icons?i=latex,c,js,rust,tensorflow)
 
