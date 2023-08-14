@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Ehllay, a guy who programs for fun! (Although I'm not very skilled)
+Hi, I'm Ehllay, a guy who programs for fun! (Although I'm not very skilled). I use Arch BTW
 ## Things I use:
 ![Things I (kinda) use](https://skillicons.dev/icons?i=bash,blender,cs,css,github,java,linux,lua,neovim,py,unity,vscode)
 
