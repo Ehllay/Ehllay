@@ -19,7 +19,7 @@ Hi, I'm Ehllay, a guy who programs for fun! (Although I'm not very skilled)
 ![Things I (kinda) use](https://skillicons.dev/icons?i=bash,blender,cs,css,github,java,linux,lua,neovim,py,unity,vscode)
 
 ## Things I want to learn:
-![Learn](https://skillicons.dev/icons?i=latex,c,js,rust,tensorflow)
+![Learn](https://skillicons.dev/icons?i=c,js,latex,rust,tensorflow)
 
 ## My stats 📊:
 
