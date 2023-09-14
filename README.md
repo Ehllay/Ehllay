@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Views](https://komarev.com/ghpvc/?username=ehllay) ![Codewars](https://www.codewars.com/users/Ehllay/badges/small)
+![Views](https://komarev.com/ghpvc/?username=ehllay) [![wakatime](https://wakatime.com/badge/user/2338cc7a-5bcf-493f-9c51-0374f18303c5.svg)](https://wakatime.com/@2338cc7a-5bcf-493f-9c51-0374f18303c5?style=flat) ![Codewars](https://www.codewars.com/users/Ehllay/badges/small)
 <!--
 **Ehllay/Ehllay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
