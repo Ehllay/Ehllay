@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, I'm Ehllay, a guy who programs for fun! (Although I'm not very skilled). I use Arch BTW
 ## Things I use:
-![Things I (kinda) use](https://skillicons.dev/icons?i=bash,blender,css,github,java,linux,lua,neovim,py,unity,vscode)
+![Things I (kinda) use](https://skillicons.dev/icons?i=bash,blender,css,git,github,html,java,linux,lua,md,neovim,py,vscode)
 
 ## Things I want to learn:
 ![Learn](https://skillicons.dev/icons?i=c,js,rust)
