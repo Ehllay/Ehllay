@@ -1,5 +1,7 @@
-## Hi there 👋
-![Views](https://komarev.com/ghpvc/?username=ehllay&style=for-the-badge) [![wakatime](https://wakatime.com/badge/user/2338cc7a-5bcf-493f-9c51-0374f18303c5.svg)](https://wakatime.com/@2338cc7a-5bcf-493f-9c51-0374f18303c5?style=for-the-badge) ![Codewars](https://www.codewars.com/users/Ehllay/badges/small)
+<div align="center" text-align="center" style="inline-block">
+
+## Ehllay
+![Views](https://komarev.com/ghpvc/?username=ehllay&style=for-the-badge) [![wakatime](https://wakatime.com/badge/user/2338cc7a-5bcf-493f-9c51-0374f18303c5.svg?style=for-the-badge)](https://wakatime.com/@2338cc7a-5bcf-493f-9c51-0374f18303c5) <br> ![Codewars](https://www.codewars.com/users/Ehllay/badges/small)
 <!--
 **Ehllay/Ehllay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Ehllay, a guy who programs for fun! (Although I'm not very skilled). I use Arch BTW
-## Things I use:
-![Things I (kinda) use](https://skillicons.dev/icons?i=bash,blender,css,git,github,html,linux,lua,md,neovim,rust,py,vscode)
+Hey there, I'm Ehllay, a guy with a passion for programming. I still use Arch BTW
+---
+![Things I use](https://skillicons.dev/icons?i=bash,blender,css,git,github,html,js,linux,lua,md,neovim,rust,py,vscode)
 
 ## My stats 📊:
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=ehllay&exclude_repo=ehllay/ehllay&show_icons=true&theme=catppuccin_mocha" alt="Stats"> <img width="425" src="http://github-readme-streak-stats.herokuapp.com?user=Ehllay&theme=catppuccin_mocha" alt="Streak">
-<img width="425" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehllay&layout=donut&theme=catppuccin_mocha" alt="Languages">
-<img width="830" src="https://github-profile-trophy.vercel.app/?username=ehllay&theme=dracula" alt="Trophies">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ehllay&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=690&background=45%2C161925%2C060919&border=CA9BFD&ring=ABAEFC&fire=FD9B9D&currStreakNum=8387FC&stroke=2A2D38&sideNums=E7ECEF&currStreakLabel=8387FC&sideLabels=DEDAFF&dates=DEDAFF" alt="GitHub Streak" /></a> 
+<br>
+<img height=170 src="https://github-readme-stats.vercel.app/api?username=ehllay&exclude_repo=ehllay/ehllay&show_icons=true&bg_color=45,161925,060919&title_color=8387fc&text_color=dedaff&icon_color=8387fc&border_color=ca9bfd" alt="Stats">
+<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehllay&layout=donut&bg_color=45,161925,060919&title_color=8387fc&text_color=dedaff&icon_color=8387fc&border_color=ca9bfd" alt="Languages">
 <a/>
+</div>
