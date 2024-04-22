@@ -1,7 +1,7 @@
 <div align="center" text-align="center" style="inline-block">
 
 ## Ehllay
-![Views](https://komarev.com/ghpvc/?username=ehllay&style=for-the-badge) [![wakatime](https://wakatime.com/badge/user/2338cc7a-5bcf-493f-9c51-0374f18303c5.svg?style=for-the-badge)](https://wakatime.com/@2338cc7a-5bcf-493f-9c51-0374f18303c5) <br> ![Codewars](https://www.codewars.com/users/Ehllay/badges/small)
+![Views](https://komarev.com/ghpvc/?username=ehllay&style=for-the-badge&color=8387fc) [![wakatime](https://wakatime.com/badge/user/2338cc7a-5bcf-493f-9c51-0374f18303c5.svg?style=for-the-badge&labelColor=%23161925&color=%238387fc)](https://wakatime.com/@2338cc7a-5bcf-493f-9c51-0374f18303c5) <br> ![Codewars](https://www.codewars.com/users/Ehllay/badges/small)
 <!--
 **Ehllay/Ehllay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
