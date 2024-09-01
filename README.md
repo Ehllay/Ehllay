@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hey there, I'm Ehllay, a guy with a passion for programming. I still use Arch BTW
+Hey there, I'm Ehllay, a guy with a passion for programming. I use NixOS BTW
 ---
 ![Things I use](https://skillicons.dev/icons?i=bash,blender,css,git,github,html,js,linux,lua,md,neovim,rust,py,vscode)
 
